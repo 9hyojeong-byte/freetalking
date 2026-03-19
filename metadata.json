@@ -1,5 +1,7 @@
 {
-  "name": "My AI Friend",
+  "name": "프리토킹 앱",
   "description": "A real-time voice conversation app with Gemini 2.0 Flash, acting as an English study partner.",
-  "requestFramePermissions": ["microphone"]
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
